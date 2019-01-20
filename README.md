@@ -47,16 +47,16 @@ __Important__ You will want to create a separate IntelliJ project for each of th
 Also, you may not change the code in any test cases. _The only permissible difference between the base version of each JUnit test class is yours will have no tests commented out but the file is otherwise identical._
 
 ### XML-based Configuration Lab
-1. Start IntelliJ and, if necessary, close the last project you had open.
+1. Start IntelliJ and, if necessary, close the last project you had open
 1. Choose "Open" from the IntelliJ IDEA welcome screen
 1. From the file navigator, choose ``xml-config`` under ``labs/java4-labs-spring-ioc``
-1. Press OK.  The project will open and IntelliJ will import it.
-1. __NOTE:__ The Community edition doesn't automatically configure all Spring artifacts.
+1. Press OK so the project will open and IntelliJ will import it
+1. __NOTE:__ The Community edition doesn't automatically configure all Spring artifacts
 If necessary, create a "resources" directory under ``src/main``
 1. Open ``XmlConfigTests`` in the editor
-1. Move the /* -- top block comment line to below the first Test.
+1. Move the /* -- top block comment line to below the first Test
 1. Right click in the editor window and choose "Run XmlConfigTests"
-1. Change just enough code / configuration to make that test pass.
+1. Change just enough code / configuration to make that test pass
 1. Repeat the last 3 steps until every test method runs without error
 
 Once you are done, commit your changes using "VCS" -> "Commit":
@@ -69,7 +69,7 @@ Finally, Choose "File" -> "Close Project" before starting on the next lab
 ### Java-based Configuration Lab
 1. Choose "Open" from the IntelliJ IDEA welcome screen
 1. From the file navigator, choose ``java-config`` under ``labs/java4-labs-spring-ioc``
-1. Press OK.  The project will open and IntelliJ will import it.
+1. Press OK so the project will open and IntelliJ will import it
 1. Repeat the process you followed in the previous lab using tests defined in
 ``JavaConfigTests``
 1. Commit your changes
@@ -78,7 +78,7 @@ Finally, Choose "File" -> "Close Project" before starting on the next lab
 ### Annotation-based Configuration Lab
 1. Choose "Open" from the IntelliJ IDEA welcome screen
 1. From the file navigator, choose ``annotation-config`` under ``labs/java4-labs-spring-ioc``
-1. Press OK.  The project will open and IntelliJ will import it.
+1. Press OK so the project will open and IntelliJ will import it
 1. Repeat the process you followed in the previous lab using tests defined in
 ``AnnotationConfigTests``
 1. Commit your changes
@@ -94,7 +94,7 @@ Finally, Choose "File" -> "Close Project" before starting on the next lab
 1. From the "Comparing changes" view, click "Create pull request"
 1. Enter a proper tile and comments in the "Open a pull request" view
 1. Click "Create pull request"
-1. Verify your pull request is pending in the [main repository pulls list](https://github.com/jeff-anderson-cscc/java4-labs-spring-ioc/pulls).
+1. Verify your pull request is pending in the [main repository pulls list](https://github.com/jeff-anderson-cscc/java4-labs-spring-ioc/pulls)
 
 __NOTE:__ I will provide feedback via. comments in your pull request.
 If you need to amend your work after you issue your initial pull request:
