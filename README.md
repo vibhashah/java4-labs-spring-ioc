@@ -22,7 +22,7 @@ and typing:
 
 ## Getting Started:
 
-1. __Fork__ this repository (__don't__ "Clone or download" directly from my repository)
+1. [Fork](https://help.github.com/articles/fork-a-repo/) this repository (__don't__ "Clone or download" directly from my repository)
 1. Open a terminal and change to your labs directory:
 ``cd ~/labs``
 1. After the repo has been forked to your GitHub account, verify you are viewing your fork, then click on "Clone or download"
@@ -51,8 +51,7 @@ Also, you may not change the code in any test cases. _The only permissible diffe
 1. Choose "Open" from the IntelliJ IDEA welcome screen
 1. From the file navigator, choose ``xml-config`` under ``labs/java4-labs-spring-ioc``
 1. Press OK so the project will open and IntelliJ will import it
-1. __NOTE:__ The Community edition doesn't automatically configure all Spring artifacts
-If necessary, create a "resources" directory under ``src/main``
+1. __NOTE:__ The Community edition doesn't automatically configure all Spring artifacts so, if necessary, create a "resources" directory under ``src/main``
 1. Open ``XmlConfigTests`` in the editor
 1. Move the /* -- top block comment line to below the first Test
 1. Right click in the editor window and choose "Run XmlConfigTests"
@@ -85,6 +84,8 @@ Finally, Choose "File" -> "Close Project" before starting on the next lab
 1. Close the Project
 
 ## Submitting Your Work
+
+Create a [pull request](https://help.github.com/articles/creating-a-pull-request/) to submit your work for grading:
 
 1. Open a terminal
 1. Change to the main directory for these labs: ``cd ~/labs/java4-labs-spring-ioc``
