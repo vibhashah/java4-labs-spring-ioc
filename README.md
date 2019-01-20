@@ -5,9 +5,9 @@ Spring Inversion of Control (IoC) configuration labs
 ## Objective
 
 This repository has three labs:
-1. Configuring Spring with XML located in the [xml-config](xml-config/README.md) directory
-1. Configuring Spring with Java located in the [java-config](java-config/README.md) directory
-1. Configuring Spring with annotations located in the [annotation-config](annotation-config/README.md) directory
+1. Configuring Spring with XML located in the [xml-config](xml-config) directory
+1. Configuring Spring with Java located in the [java-config](java-config) directory
+1. Configuring Spring with annotations located in the [annotation-config](annotation-config) directory
 
 For each of the three labs:
 * Find the JUnit Test provided which is located under ``src/test/java/edu/cscc/java4/spring/ioc/config/``
