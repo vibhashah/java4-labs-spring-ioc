@@ -22,24 +22,8 @@ and typing:
 
 ## Getting Started:
 
-1. [Fork](https://help.github.com/articles/fork-a-repo/) this repository (__don't__ "Clone or download" directly from my repository)
-1. Open a terminal and change to your labs directory:
-``cd ~/labs``
-1. After the repo has been forked to your GitHub account, verify you are viewing your fork, then click on "Clone or download"
-1. Click on the clipboard icon in the dropdown that appears to copy the URL
-1. Go back to your terminal and type: ``git clone `` (with a trailing space)
-1. In the terminal window, choose "Edit" -> "Paste" which should cause the repository URL to be appended to the ``git clone`` command
-1. Press Enter
-
-If all goes well you should see something like:
-```
-Cloning into 'java4-labs-spring-ioc'...
-remote: Enumerating objects: 61, done.
-remote: Counting objects: 100% (61/61), done.
-remote: Compressing objects: 100% (24/24), done.
-remote: Total 61 (delta 5), reused 61 (delta 5), pack-reused 0
-Unpacking objects: 100% (61/61), done.
-```
+1. Copy the starter code from here into a new, private repository in your personal GitHub account using [these instructions](https://github.com/jeff-anderson-cscc/submitting-assignments-lab#copy-the-starter-code-into-a-new-private-repository-in-your-personal-github-account)
+2. Create a new branch for your code changes as described in [these instructions](https://github.com/jeff-anderson-cscc/submitting-assignments-lab#before-you-start-coding)
 
 ## Completing the Assignment
 
@@ -85,17 +69,8 @@ Finally, Choose "File" -> "Close Project" before starting on the next lab
 
 ## Submitting Your Work
 
-Create a [pull request](https://help.github.com/articles/creating-a-pull-request/) to submit your work for grading:
-
-1. Open a terminal
-1. Change to the main directory for these labs: ``cd ~/labs/java4-labs-spring-ioc``
-1. Push your changes to GitHub: ``git push origin master`` providing your GitHub login credentials if prompted to do so
-1. Navigate to your copy of the repository in GitHub
-1. Click "New Pull Request"
-1. From the "Comparing changes" view, click "Create pull request"
-1. Enter a proper tile and comments in the "Open a pull request" view
-1. Click "Create pull request"
-1. Verify your pull request is pending in the [main repository pulls](https://github.com/jeff-anderson-cscc/java4-labs-spring-ioc/pulls) list
+1. Create a pull request for your branch using [these instructions](https://github.com/jeff-anderson-cscc/submitting-assignments-lab#once-you-are-ready-to-submit-your-work-for-grading) 
+1. Submit the assignment in Blackboard as described in [these instructions](https://github.com/jeff-anderson-cscc/submitting-assignments-lab#once-your-pull-request-is-created-and-i-am-added-as-a-reviewer)
 
 __NOTE: I will provide feedback via. comments in your pull request.__
 If you need to amend your work after you issue your initial pull request:
