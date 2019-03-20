@@ -14,15 +14,9 @@ For each of the three labs:
 * One by one, uncomment each test, changing just enough code or configuration to
 make the test pass
 
-## Prerequisites
-
-* Create a "labs" directory if you don't already have one by opening a terminal
-and typing:
-``mkdir ~/labs``
-
 ## Getting Started:
 
-1. Copy the starter code from here into a new, private repository in your personal GitHub account using [these instructions](https://github.com/jeff-anderson-cscc/submitting-assignments-lab#copy-the-starter-code-into-a-new-private-repository-in-your-personal-github-account)
+1. Copy the starter code from here into a new, private repository in your personal GitHub account using [these instructions](https://github.com/jeff-anderson-cscc/submitting-assignments-lab#copy-the-starter-code-into-a-new-private-repository-in-your-personal-github-account) substituting this repository URL ``https://github.com/jeff-anderson-cscc/java4-labs-spring-ioc.git`` for the one referenced in that document
 2. Create a new branch for your code changes as described in [these instructions](https://github.com/jeff-anderson-cscc/submitting-assignments-lab#before-you-start-coding)
 
 ## Completing the Assignment
@@ -69,7 +63,7 @@ Finally, Choose "File" -> "Close Project" before starting on the next lab
 
 ## Submitting Your Work
 
-1. Create a pull request for your branch using [these instructions](https://github.com/jeff-anderson-cscc/submitting-assignments-lab#once-you-are-ready-to-submit-your-work-for-grading) 
+1. Create a pull request for your branch using [these instructions](https://github.com/jeff-anderson-cscc/submitting-assignments-lab#once-you-are-ready-to-submit-your-work-for-grading)
 1. Submit the assignment in Blackboard as described in [these instructions](https://github.com/jeff-anderson-cscc/submitting-assignments-lab#once-your-pull-request-is-created-and-i-am-added-as-a-reviewer)
 
 __NOTE: I will provide feedback via. comments in your pull request.__
